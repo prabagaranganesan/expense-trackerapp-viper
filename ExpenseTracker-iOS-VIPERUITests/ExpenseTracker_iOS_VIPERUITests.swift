@@ -1,13 +1,13 @@
 //
-//  ExpenseTracker_iOS_VIPHERUITests.swift
-//  ExpenseTracker-iOS-VIPHERUITests
+//  ExpenseTracker_iOS_VIPERUITests.swift
+//  ExpenseTracker-iOS-VIPERUITests
 //
 //  Created by Prabagaran, Ganesan (G.) on 06/11/21.
 //
 
 import XCTest
 
-class ExpenseTracker_iOS_VIPHERUITests: XCTestCase {
+class ExpenseTracker_iOS_VIPERUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
