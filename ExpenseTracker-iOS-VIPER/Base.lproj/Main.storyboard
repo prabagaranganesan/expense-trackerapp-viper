@@ -11,7 +11,7 @@
         <!--Register View-->
         <scene sceneID="c3r-Og-nTy">
             <objects>
-                <viewController storyboardIdentifier="RegisterView" useStoryboardIdentifierAsRestorationIdentifier="YES" id="zhp-a3-XxA" customClass="RegisterView" customModule="ExpenseTracker_iOS_VIPHER" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="RegisterView" useStoryboardIdentifierAsRestorationIdentifier="YES" id="zhp-a3-XxA" customClass="RegisterView" customModule="ExpenseTracker_iOS_VIPER" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="ePk-OS-blu">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -105,6 +105,21 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Yoq-1o-ybC" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-855.07246376811599" y="122.54464285714285"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="nh2-ii-mnl">
+            <objects>
+                <viewController id="wPX-na-Z2g" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="78e-eT-ufF">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="2C7-vv-IYR"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="lUo-gG-MGg" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-197" y="123"/>
         </scene>
     </scenes>
     <resources>
